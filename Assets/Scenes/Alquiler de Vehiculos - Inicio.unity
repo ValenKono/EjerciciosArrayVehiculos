@@ -341,6 +341,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d60f7179c15c70d48944d5c26d13d2bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vehiculos:
+  - {fileID: 1458014360}
+  - {fileID: 826247319}
+  - {fileID: 647529225}
+  - {fileID: 1070487240}
+  - {fileID: 191372302}
+  - {fileID: 1537088744}
 --- !u!4 &232303059
 Transform:
   m_ObjectHideFlags: 0
